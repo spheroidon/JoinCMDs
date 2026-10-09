@@ -1,0 +1,4 @@
+Quiet: true
+
+JoinCommands:
+  - give {player} minecraft:dead_bush

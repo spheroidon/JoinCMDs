@@ -1,0 +1,6 @@
+name: JoinCMDs
+version: '${version}'
+
+main: com.spheroidon.joinCMDs.JoinCMDs
+api-version: '26.3'
+load: POSTWORLD
